@@ -111,5 +111,3 @@ roleRef:
 ### name: secname
 ### annotations:
 ###  kubernetes.io/service-account.name: jenkins
-
-33i
